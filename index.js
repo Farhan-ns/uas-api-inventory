@@ -19,7 +19,7 @@ const options = {
     info: {
       title: 'Phones API - 2042408',
       version: '1.0.0',
-      description: 'Use http://localhost:8080/api/{resoure endpoint} to access apis' 
+      description: 'Use https://farhan-2042408-inventory.herokuapp.com/api/{resource endpoint} to access the apis' 
     },
   },
   apis: [
